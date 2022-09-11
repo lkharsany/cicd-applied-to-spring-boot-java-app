@@ -21,7 +21,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		
 		<docker.image.prefix>luqmaank</docker.image.prefix>
-		
+			
 		<maven.deploy.skip>true</maven.deploy.skip>
 		
 		<!-- GitHub OAuth token & server -->
